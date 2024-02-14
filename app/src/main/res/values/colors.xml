@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="charcoal">#343A40</color>
+    <color name="davy_grey">#495057</color>
+    <color name="metal">#6C757D</color>
+    <color name="ash_grey">#ADB5BD</color>
+    <color name="light_grey">#CED4DA</color>
+    <color name="red">#F44336</color>
+    <color name="green">#4CAF50</color>
+    <color name="textColor">#353535</color>
+    <color name="paytm">#14A5E1</color>
+    <color name="gpay">#FAC016</color>
+    <color name="cash">#BA80BE</color>
+
+    <color name="category1">#4caf50</color>
+    <color name="category2">#f44336</color>
+    <color name="category3">#9c27b0</color>
+    <color name="category4">#2196f3</color>
+    <color name="category5">#e91e63</color>
+    <color name="category6">#877606</color>
+
+</resources>
